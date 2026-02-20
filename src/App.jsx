@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 // URL do Google Apps Script (Substitua pela sua URL real)
-const GAS_URL = "COLE_AQUI_A_URL_DO_SEU_WEB_APP_DO_APPS_SCRIPT";
+const GAS_URL = "https://script.google.com/macros/s/AKfycbxQSw1u4my51TSuiLNBkZTtcgiZhrMnyjasSm4eH7MB056I9ozkuB3nAWPV6UJFZjzG/exec";
 
 const CLIMA_OPCOES = [
     { id: 'ensolarado', label: 'Ensolarado', icon: '☀️' },
